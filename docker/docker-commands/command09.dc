@@ -1,1 +1,2 @@
-docker build -t todobackend .
+
+docker build -t todobackend ./todo-app/back-end

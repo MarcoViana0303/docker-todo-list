@@ -1,13 +1,26 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h4 align="center">
+  <img width="180px" alt="docker logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <br /><br />
+  Criando uma To Do List utilizando Docker
+</h4>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Tecnologias usadas
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+- [Docker](https://www.docker.com/)
+- [Git](https://git-scm.com/)
+- [VS Code](https://code.visualstudio.com/)
+
+## Documentação
+
+[Para aprender Docker](https://docs.docker.com/?_gl=1*128r9gh*_ga*OTc2MzI4MDAuMTY4NTUwNzA4OQ..*_ga_XJWPQMJYHQ*MTY4NTUwNzA4OS4xLjEuMTY4NTUwNzA5MC41OS4wLjA.)
+
+
+## Feedback
+
+Possui alguma dúvida ou encontrou um erro no código? Não deixe de entrar em contato comigo!
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marcoviana-dev.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-viana2022/)
+

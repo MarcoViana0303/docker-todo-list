@@ -4,6 +4,26 @@
   Criando uma To Do List utilizando Docker
 </h4>
 
+## Rodando localmente
+
+Clone o projeto
+
+```bash
+  git clone git@github.com:MarcoViana0303/docker-todo-list.git
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd docker-todo-list
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
 ## Tecnologias usadas
 
 - [Docker](https://www.docker.com/)
